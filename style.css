@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+.head1 {
+  color: white;
+  padding: 25px;
+}
+
+.head2 {
+  color: white;
+  padding: 20px;
+}
+
+.row {
+  justify-content: center;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+#green {
+  border: 5px solid black;
+  border-radius: 12px;
+  background-color: green;
+}
+
+#red {
+  border: 5px solid black;
+  height: 20vh;
+  border-radius: 12px;
+  background-color: red;
+}
+
+#blue {
+  border: 5px solid black;
+  height: 20vh;
+  border-radius: 12px;
+  background-color: blue;
+}
+
+#yellow {
+  border: 5px solid black;
+  border-radius: 12px;
+  background-color: yellow;
+}
